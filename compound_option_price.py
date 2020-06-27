@@ -52,6 +52,8 @@ SampleT1=100
 SampleT2=100
 SampleOP=100
 
+CoC_AN_MVN(S0,T1,T2,K1,K2)
+#9.138328780128102
 
 
 

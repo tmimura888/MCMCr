@@ -63,7 +63,8 @@ SampleOP=100
 
 
 CoC_MC(S0,K1,K2,T1,T2,SampleT1,SampleOP,SampleT2)
-print(CoC_MC)
+
+#7.977420799325231
 
 
 
